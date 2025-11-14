@@ -1,5 +1,5 @@
 #!/bin/bash
-# Generate calc.exe shellcode using msfvenom - MEETS OUTLINE REQUIREMENT
+# Generate calc.exe shellcode using msfvenom
 
 echo "=== Generating Shellcode with msfvenom ==="
 echo "[*] Creating calc.exe payload to avoid network detection"
